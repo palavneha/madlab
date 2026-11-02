@@ -1,8 +1,0 @@
-.DS_Store
-.idea/
-.vscode/
-**/.dart_tool/
-**/build/
-**/.flutter-plugins
-**/.flutter-plugins-dependencies
-**/android/local.properties
