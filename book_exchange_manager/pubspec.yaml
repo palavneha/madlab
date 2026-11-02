@@ -1,0 +1,17 @@
+name: book_exchange_manager
+description: Firebase-powered second-hand textbook catalogue demonstrating realtime CRUD, category labels, edit, archive, restore, and delete.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.6.0
+  firebase_database: ^11.1.4
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  uses-material-design: true
